@@ -1,4 +1,4 @@
-# BAGLN
-Boundary-Aware Guided Light Network for Precise 3D Lung Nodule Segmentation
+# BALSeg
+Boundary-Aware Lightweight Network for 3D Lung Nodule Segmentation
 
-the code is coming soon~
+The code is coming soon~
